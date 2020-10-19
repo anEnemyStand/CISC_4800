@@ -1,0 +1,32 @@
+#navbar, a:link, a:visited, a:hover {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#navbar{
+  background-color: black;
+  display: block;
+  padding: 15px;
+}
+
+#signup{
+  float:right;
+  text-align: right;
+  padding-right: 20px;
+  width: 200px;
+}
+
+.button{
+   background-color: #8CBA3C;
+   border: none;
+   padding: 15px 35px;
+   text-decoration: none;
+   display: inline-block;
+}
+
+.page{
+  text-align: center;
+}
